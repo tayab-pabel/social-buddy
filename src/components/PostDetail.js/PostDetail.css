@@ -1,0 +1,9 @@
+.postDetail {
+  border: 1px solid rgba(48, 63, 159, 0.9);
+  padding: 10px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
